@@ -1,0 +1,10 @@
+.up-div{
+    background-image: url(../../assets/images/small_up.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.sticky{
+    background-color: white;
+}

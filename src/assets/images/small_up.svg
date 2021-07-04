@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="490" viewBox="0 0 1080 490">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.898" x2="1" y2="0.02" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a4ced"/>
+      <stop offset="1" stop-color="#8eb7fb"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_774" data-name="Path 774" d="M0,0H1080l0,219.853L0,219.868Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-small_up">
+      <rect width="1080" height="490"/>
+    </clipPath>
+  </defs>
+  <g id="small_up" clip-path="url(#clip-small_up)">
+    <rect width="1080" height="490" fill="#fff"/>
+    <path id="Path_770" data-name="Path 770" d="M0,0H1080l0,456.779L0,456.811Z" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_22" data-name="Mask Group 22" transform="translate(0 270.058)" clip-path="url(#clip-path)">
+      <path id="Path_771" data-name="Path 771" d="M1079.9,227.811s-34.857,85.5-103.5,124.284c-32.193,18.19-64.523,26.56-94,31.608-160.767,27.537-224.252-71.581-366.153-63.144C351.891,330.33,309.814,461.985,160.454,449.026,88.477,442.781,32.434,442.41-.1,420.687c-.426,101.117.426-72.778,0,28.339l1079.231-.01C1081.382,301.733,1079.9,227.811,1079.9,227.811Z" transform="translate(300.031 -225.996)" fill="#fff" opacity="0.339"/>
+      <path id="Path_772" data-name="Path 772" d="M.261,227.811s34.857,85.5,103.5,124.284c32.193,18.19,64.523,26.56,94,31.608,160.767,27.537,228.862-45.313,370.764-36.876,164.355,9.772,201.821,115.158,351.181,102.2,71.978-6.245,128.02-6.617,160.55-28.339.426,101.117-.426-72.778,0,28.339L1.025,449.016C-1.221,301.733.261,227.811.261,227.811Z" transform="translate(0.096 -227.811)" fill="#fff" opacity="0.339"/>
+      <path id="Path_773" data-name="Path 773" d="M1080,1702.46c-29.177-8.911-72.16-17.913-121.5-11.568-28.411,3.654-41.424,10.144-71.719,17.011-55.54,12.59-100.86,10.964-140.906,9.526-85.858-3.081-136.526-22.861-225.6-30.9-38.937-3.512-66.353-5.527-107.459-3.715-127.483,5.622-195.279,33.571-299.178,3.877A372.763,372.763,0,0,1,0,1632.483v120.557H1080Z" transform="translate(0 -1532.265)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

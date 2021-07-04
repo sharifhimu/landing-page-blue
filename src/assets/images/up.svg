@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="1007" viewBox="0 0 1921 1007">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.898" x2="1" y2="0.02" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a4ced"/>
+      <stop offset="1" stop-color="#8eb7fb"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_766" data-name="Path 766" d="M0,0H1920l0,484.647L0,484.68Z" transform="translate(0 595.32)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-bg">
+      <rect width="1921" height="1007"/>
+    </clipPath>
+  </defs>
+  <g id="bg" clip-path="url(#clip-bg)">
+    <rect width="1921" height="1007" fill="#fff"/>
+    <path id="Path_762" data-name="Path 762" d="M0,0H1920l0,1006.93L0,1007Z" fill="url(#linear-gradient)"/>
+    <line id="Line_26" data-name="Line 26" x2="1920" transform="translate(0.5 74.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.3"/>
+    <g id="Mask_Group_20" data-name="Mask Group 20" clip-path="url(#clip-path)">
+      <path id="Path_763" data-name="Path 763" d="M1919.989,227.811s-61.968,188.471-184.007,273.973c-57.232,40.1-114.707,58.548-167.1,69.677-285.807,60.7-398.67-157.793-650.938-139.2-292.186,21.54-366.988,311.762-632.517,283.2C157.462,701.694,57.831,700.875,0,652.99c-.757,222.9.758-160.433,0,62.47l1918.63-.023C1922.625,390.765,1919.989,227.811,1919.989,227.811Z" transform="translate(533.218 371.509)" fill="#fff" opacity="0.339"/>
+      <path id="Path_764" data-name="Path 764" d="M.635,227.811S62.6,416.281,184.642,501.784c57.232,40.1,114.707,58.549,167.1,69.677,285.807,60.7,406.866-99.888,659.134-81.29,292.186,21.54,358.792,253.857,624.321,225.29,127.96-13.766,227.591-14.585,285.422-62.47.757,222.9-.758-160.433,0,62.47L1.993,715.438C-2,390.765.635,227.811.635,227.811Z" transform="translate(0 367.509)" fill="#fff" opacity="0.339"/>
+      <path id="Path_765" data-name="Path 765" d="M1920,1786.741c-51.87-19.643-128.284-39.486-216-25.5-50.508,8.054-73.643,22.362-127.5,37.5-98.738,27.754-179.307,24.169-250.5,21-152.636-6.793-242.713-50.4-401.075-68.106-69.221-7.741-117.961-12.185-191.038-8.188-226.636,12.394-347.163,74-531.871,8.546C108.77,1718.947,41.856,1669.208,0,1632.483v265.758H1920Z" transform="translate(0 -816.242)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
